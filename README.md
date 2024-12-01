@@ -1,2 +1,1 @@
-# Pixel-Wallet-Auto-Clicker
-Pixel-Wallet-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
